@@ -1,0 +1,2 @@
+D:/black_hole/android/app/.cxx/Debug/2h514y1i/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/black_hole/android/app/.cxx/Debug/2h514y1i/arm64-v8a/CMakeFiles/rebuild_cache.dir
